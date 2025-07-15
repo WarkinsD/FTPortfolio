@@ -17,13 +17,14 @@ This lab simulates the creation of an enterprise-wide risk register following **
 - **Email System – Phishing** → Risk Score: 16 (**High**)  
 - **Endpoint Devices – Malware Infection** → Risk Score: 9 (**Low**)
 
+## Compliance Relevance
+- Supports **HIPAA & HITRUST** principles for protecting sensitive data.  
+- Aligns with **NIST SP 800-30** for enterprise risk assessment.
+
 ## Files
 - [Risk Register (PDF)](./Enterprise_Risk_Register_Lab.pdf)  
 - [Full Lab Write-Up (PDF)](./Enterprise_Risk_Register_WriteUp.pdf)
-
-## Compliance Relevance
-- Supports **HIPAA & HITRUST** principles for protecting sensitive data.  
-- Aligns with **NIST SP 800-30** for enterprise risk assessment.  
+  
 ## References
 - Center for Internet Security. (n.d.). [CIS Controls v8: Cyber defense best practices](https://www.cisecurity.org/controls/cis-controls-list)  
 - Cybersecurity & Infrastructure Security Agency. (2023). [Stop Ransomware: Resources and Prevention Guidance](https://www.cisa.gov/stopransomware)  
