@@ -1,4 +1,4 @@
-# Microsoft Security Stack Summary
+# Microsoft Security Stack Summary Lab
 
 ## Overview
 This lab explores the core use cases of **Microsoft’s Security Stack**—Microsoft Defender for Endpoint, Azure Active Directory (Azure AD), and Microsoft Sentinel. These tools are critical to cloud-based healthcare cybersecurity, particularly for identity protection and threat detection.
