@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio – Warkins
 
-This repository highlights hands-on labs and projects demonstrating risk management, compliance, and threat-hunting skills—aligned with real-world analyst and GRC responsibilities.
+This repository highlights hands-on labs and projects demonstrating risk management, compliance, and threat-hunting skills, aligned with real-world analyst and GRC responsibilities.
 ---
 
 ## About This Portfolio
