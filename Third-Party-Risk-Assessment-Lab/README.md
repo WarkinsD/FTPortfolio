@@ -1,4 +1,4 @@
-# Lab 1: Third-Party Risk Assessment
+# Third-Party Risk Assessment Lab
 
 ## Overview
 This lab simulated a third-party risk assessment aligned with real-world vendor management practices, focusing on vendors handling PHI and HIPAA compliance requirements.
@@ -22,3 +22,9 @@ This lab simulated a third-party risk assessment aligned with real-world vendor 
 ## Compliance Relevance
 - Supports **HIPAA & HITRUST** vendor risk management requirements.
 - Uses **NIST SP 800-30** methodology for risk scoring.
+
+## References
+- Center for Internet Security. (n.d.). [CIS Controls v8: Safeguards for third-party and service provider management](https://www.cisecurity.org/controls/cis-controls-list)  
+- U.S. Department of Health and Human Services. (n.d.). [HIPAA Security Rule: Administrative safeguards – Business Associate Agreements](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html)  
+- National Institute of Standards and Technology. (2023). [Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations (NIST SP 800-161 Rev. 1 Update 1)](https://csrc.nist.gov/pubs/sp/800/161/r1/upd1/final)  
+- Verizon. (2024). [2024 Data Breach Investigations Report (DBIR): Third-party and supply chain incidents](https://www.verizon.com/business/resources/reports/dbir/)
