@@ -1,4 +1,4 @@
-# HIPAA & HITRUST Compliance Mapping
+# HIPAA & HITRUST Compliance Mapping Lab
 
 ## Overview
 This lab compares **HIPAA’s Security and Privacy Rules** with the **HITRUST CSF**, focusing on how HITRUST expands HIPAA’s safeguards with prescriptive controls and measurable auditability.
