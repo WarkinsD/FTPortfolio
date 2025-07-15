@@ -15,13 +15,13 @@ This lab simulated a third-party risk assessment aligned with real-world vendor 
 - **Nimbus Billing Solutions** – High priority; outdated SSL & missing BCP.
 - **Elite HVAC** – Low sensitivity but remote access risk.
 
-## Files
-- [Risk Matrix (Excel)](./Third_Party_Risk_Assessment_Lab.pdf)
-- [Full Lab Write-Up (PDF)](./Third_Party_Risk_Assessment_Write-up.pdf)
-
 ## Compliance Relevance
 - Supports **HIPAA & HITRUST** vendor risk management requirements.
 - Uses **NIST SP 800-30** methodology for risk scoring.
+
+## Files
+- [Risk Matrix (Excel)](./Third_Party_Risk_Assessment_Lab.pdf)
+- [Full Lab Write-Up (PDF)](./Third_Party_Risk_Assessment_Write-up.pdf)
 
 ## References
 - Center for Internet Security. (n.d.). [CIS Controls v8: Safeguards for third-party and service provider management](https://www.cisecurity.org/controls/cis-controls-list)  
