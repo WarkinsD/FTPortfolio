@@ -15,19 +15,19 @@ This portfolio showcases:
 
 ## Labs and Projects
 
-### 1. [Third-Party Risk Assessment](./Lab1-Third-Party-Risk-Assessment)
+### 1. [Third-Party Risk Assessment](./Third-Party-Risk-Assessment-Lab)
 Evaluated vendor cybersecurity risks (PHI exposure, MFA gaps, SOC 2 compliance) using a 5×5 risk matrix. Proposed mitigations and assessed residual risk for HIPAA and HITRUST alignment.
 
-### 2. [Enterprise Risk Register](./Lab2-Enterprise-Risk-Register)
+### 2. [Enterprise Risk Register](./Enterprise-Risk-Register-Lab)
 Created an enterprise-wide risk register aligned with NIST SP 800-30, scoring internal threats across VPNs, HR systems, email, and endpoints.
 
-### 3. [Microsoft Security Stack Summary](./Lab3-Microsoft-Security-Stack)
+### 3. [Microsoft Security Stack Summary](./Microsoft-Security-Stack-Lab)
 Documented core use cases for Microsoft Defender, Azure AD, and Microsoft Sentinel, including KQL-based threat detection scenarios.
 
-### 4. [HIPAA and HITRUST Compliance Mapping](./Lab4-HIPAA-HITRUST-Compliance-Mapping)
+### 4. [HIPAA and HITRUST Compliance Mapping](./HIPAA-HITRUST-Compliance-Mapping-Lab)
 Mapped HIPAA Security Rule safeguards to HITRUST CSF controls, demonstrating how operational security practices align with compliance frameworks.
 
-### 5. [KQL Threat Hunting Toolkit](./Lab5-KQL-Threat-Hunting-Toolkit)
+### 5. [KQL Threat Hunting Toolkit](./KQL-Threat-Hunting-Toolkit-Lab)
 Developed 11 tested KQL queries in Microsoft Sentinel for real-world threat detection (brute-force, privilege escalation, exfiltration). Includes full Markdown toolkit and screenshots.
 
 ---
