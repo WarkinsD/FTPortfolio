@@ -1,4 +1,4 @@
-# Lab 2: Enterprise Risk Register
+# Enterprise Risk Register
 
 ## Overview
 This lab simulates the creation of an enterprise-wide risk register following **NIST SP 800-30** methodology. It evaluates internal cybersecurity risks by rating **likelihood** and **impact**, calculating risk scores, and proposing mitigation strategies.  
@@ -24,3 +24,8 @@ This lab simulates the creation of an enterprise-wide risk register following **
 ## Compliance Relevance
 - Supports **HIPAA & HITRUST** principles for protecting sensitive data.  
 - Aligns with **NIST SP 800-30** for enterprise risk assessment.  
+## References
+- Center for Internet Security. (n.d.). [CIS Controls v8: Cyber defense best practices](https://www.cisecurity.org/controls/cis-controls-list)  
+- Cybersecurity & Infrastructure Security Agency. (2023). [Stop Ransomware: Resources and Prevention Guidance](https://www.cisa.gov/stopransomware)  
+- National Institute of Standards and Technology. (2012). [Guide for Conducting Risk Assessments (NIST SP 800-30 Rev. 1)](https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final)  
+- Verizon. (2024). [2024 Data Breach Investigations Report (DBIR)](https://www.verizon.com/business/resources/reports/dbir/)
